@@ -1,0 +1,69 @@
+[{
+    "id": 19112831,
+    "sku": 1120001,
+    "name": "Квартира",
+    "description": "Хорошая квартира в центре города",
+    "price": "20000",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["house", "rent"]
+  },
+  {
+    "id": 19112832,
+    "sku": 1120002,
+    "name": "Автомобиль",
+    "description": "Хорошая автомобиль. Почти новый",
+    "price": "10000",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["vehicle", "car"]
+  }, {
+    "id": 19112833,
+    "sku": 1120003,
+    "name": "Клавиатура",
+    "description": "Хорошая клава. Нова",
+    "price": "10",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "22-08-2018",
+    "modified": "22-08-2018",
+    "categories": ["pc", "keyboard", "accessories"]
+  }, {
+    "id": 19112834,
+    "sku": 1120004,
+    "name": "GPS navigation",
+    "description": "Хорошая GPS навигация. Почти новый",
+    "price": "1000",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["gps", "navigation", "car"]
+  }, {
+    "id": 19112835,
+    "sku": 1120005,
+    "name": "Кабель USB - USB mini",
+    "description": "Класний кабель. Новый",
+    "price": "1",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "23-08-2018",
+    "modified": "23-08-2018",
+    "categories": ["accessories", "cabel"]
+  }, {
+    "id": 19112836,
+    "sku": 1120006,
+    "name": "Телефон",
+    "description": "Класний телефон. Почти новый",
+    "price": "100",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-09-2018",
+    "modified": "21-09-2018",
+    "categories": ["mobile", "smartphone"]
+  }
+]
