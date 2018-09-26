@@ -1,2 +1,2 @@
-# marketplace-server-goit
+yarn # marketplace-server-goit
 marketplace back-end
